@@ -15,4 +15,6 @@ my name is Louis, and i'm a developer who works primarily in C#, although will o
   </a>
 </p>
 
-[![Professor-Heavy's GitHub stats](https://github-readme-stats.vercel.app/api?username=professor-heavy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- my own theme would be nice someday... -->
+[![Professor-Heavy's GitHub stats](https://github-readme-stats.vercel.app/api?username=professor-heavy&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Professor-Heavy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProfessorHeavy&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
